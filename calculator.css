@@ -1,0 +1,38 @@
+body{
+ background-image: url(https://s17026.pcdn.co/wp-content/uploads/sites/9/2017/07/Asset-finance-19717.jpeg);
+  background-size: 100%;
+}
+.container{
+    position: relative;
+display: flex;
+flex-direction: row ;
+background-image: url(https://s17026.pcdn.co/wp-content/uploads/sites/9/2017/07/Asset-finance-19717.jpeg);
+
+}
+.entervalue{
+  
+}
+.card-body{
+    background-color: rgb(145, 198, 209);
+}
+.card-header{
+    background-color: rgb(226, 111, 148);
+}
+.card-footer {
+    background-color: rgb(100, 227, 214);
+}
+
+.calculated{
+    position: absolute;
+    right: 0;
+    margin-top: 20px;
+}
+.calbutton{
+   margin-left: 100px;
+    border: 4px solid rgba(31, 237, 8, 0.968);
+    width: 200;
+    margin-top: 100px;
+    margin-bottom: 85px;
+    
+}
+background-color: aqua;
